@@ -30,4 +30,16 @@
 </p>
 <br/>
 
-<br/>
+
+## Table of contents
+
+- [Status](#status)
+
+
+## Status
+
+- Project is in discovery stage.
+- Main goal: talk to dApp developers to find out their greatest pain points.
+
+[![Universe Project Status](https://img.shields.io/badge/Universe_Project_Status-v0.0.1-blue.svg?colorA=212121&colorB=007BFF)](https://github.com/universelabs/universe)
+[![Universe Community](https://img.shields.io/badge/Universe_Community-Slack-purple.svg?colorA=212121&colorB=3f46ad)](https://join.slack.com/t/universelabs/shared_invite/enQtNDQ0MjY3NDI5MTkwLTIzMWQ4M2U3MGQ3ZDY5MzM5MGQ5ZDM1MDZjNTgwNGI5NDdiNDY4ZDQyNWI2NjEzZmU3NzVmOTYwYzEzYzc1ZDE)
