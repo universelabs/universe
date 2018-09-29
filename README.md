@@ -29,13 +29,9 @@
   </p>
 </p>
 <br/>
-
 <br/>
-
-<p align="center" width="800px">
-
+<div align="center" width="500px">
   <h3 align="center">Calling all dApp developers!</h3>
-
   <p align="center">
     Are you a dApp developer? Do you feel there are infrastructure issues you need solved? Come join the <a href="https://opensource.guide/how-to-contribute/#why-contribute-to-open-source">Open Source Community</a> and other dApp developers building on all platforms.
   </p>
@@ -44,7 +40,7 @@
       <img src="https://user-images.githubusercontent.com/1711854/46250736-ccd69000-c40e-11e8-8d95-8e551b17631c.png" width=350>
     </a>
   </p>
-</p>
+</div>
 
 <br/>
 
