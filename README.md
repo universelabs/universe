@@ -41,7 +41,7 @@
   </p>
   <p align="center">
     <a href="https://join.slack.com/t/universelabs/shared_invite/enQtNDQ0MjY3NDI5MTkwLTIzMWQ4M2U3MGQ3ZDY5MzM5MGQ5ZDM1MDZjNTgwNGI5NDdiNDY4ZDQyNWI2NjEzZmU3NzVmOTYwYzEzYzc1ZDE">
-      <img src="https://user-images.githubusercontent.com/1711854/46250641-f393c700-c40c-11e8-9654-34365176e437.png" width=382>
+      <img src="https://user-images.githubusercontent.com/1711854/46250736-ccd69000-c40e-11e8-8d95-8e551b17631c.png" width=350>
     </a>
   </p>
 </p>
