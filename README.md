@@ -32,13 +32,20 @@
 
 <br/>
 
-### Calling all dApp developers!
+<p align="center" width="800px">
 
-Are you a dApp developer? Do you feel there are infrastructure issues you need solved? Come join other dApp developers building on all platforms.
+  <h3 align="center">Calling all dApp developers!</h3>
 
-[**› Universe Slack**](https://join.slack.com/t/universelabs/shared_invite/enQtNDQ0MjY3NDI5MTkwLTIzMWQ4M2U3MGQ3ZDY5MzM5MGQ5ZDM1MDZjNTgwNGI5NDdiNDY4ZDQyNWI2NjEzZmU3NzVmOTYwYzEzYzc1ZDE)
+  <p align="center">
+    Are you a dApp developer? Do you feel there are infrastructure issues you need solved? Come join the [Open Source Community](https://opensource.guide/how-to-contribute/#why-contribute-to-open-source) and other dApp developers building on all platforms.
+  </p>
+  <p align="center">
+    <a href="https://join.slack.com/t/universelabs/shared_invite/enQtNDQ0MjY3NDI5MTkwLTIzMWQ4M2U3MGQ3ZDY5MzM5MGQ5ZDM1MDZjNTgwNGI5NDdiNDY4ZDQyNWI2NjEzZmU3NzVmOTYwYzEzYzc1ZDE">
+      <img src="https://user-images.githubusercontent.com/1711854/46250641-f393c700-c40c-11e8-9654-34365176e437.png" width=382 height=79>
+    </a>
+  </p>
+</p>
 
-<br/>
 <br/>
 
 
@@ -54,3 +61,10 @@ Are you a dApp developer? Do you feel there are infrastructure issues you need s
 
 [![Universe Project Status](https://img.shields.io/badge/Universe_Project_Status-v0.0.1--alpha_Discovery-red.svg?colorA=212121&colorB=FF0000)](https://github.com/universelabs/universe)
 [![Universe Community](https://img.shields.io/badge/Universe_Community-Slack-purple.svg?colorA=212121&colorB=3f46ad)](https://join.slack.com/t/universelabs/shared_invite/enQtNDQ0MjY3NDI5MTkwLTIzMWQ4M2U3MGQ3ZDY5MzM5MGQ5ZDM1MDZjNTgwNGI5NDdiNDY4ZDQyNWI2NjEzZmU3NzVmOTYwYzEzYzc1ZDE)
+
+
+<div align="right">
+  <a href="https://opensource.guide/how-to-contribute/#why-contribute-to-open-source">
+    <img src="https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/" alt="Open Source">
+  </a>
+</div>
