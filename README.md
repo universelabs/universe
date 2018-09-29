@@ -37,7 +37,7 @@
   <h3 align="center">Calling all dApp developers!</h3>
 
   <p align="center">
-    Are you a dApp developer? Do you feel there are infrastructure issues you need solved? Come join the [Open Source Community](https://opensource.guide/how-to-contribute/#why-contribute-to-open-source) and other dApp developers building on all platforms.
+    Are you a dApp developer? Do you feel there are infrastructure issues you need solved? Come join the <a href="https://opensource.guide/how-to-contribute/#why-contribute-to-open-source">Open Source Community</a> and other dApp developers building on all platforms.
   </p>
   <p align="center">
     <a href="https://join.slack.com/t/universelabs/shared_invite/enQtNDQ0MjY3NDI5MTkwLTIzMWQ4M2U3MGQ3ZDY5MzM5MGQ5ZDM1MDZjNTgwNGI5NDdiNDY4ZDQyNWI2NjEzZmU3NzVmOTYwYzEzYzc1ZDE">
