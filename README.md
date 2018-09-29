@@ -41,5 +41,5 @@
 - Project is in discovery stage.
 - Main goal: talk to dApp developers to find out their greatest pain points.
 
-[![Universe Project Status](https://img.shields.io/badge/Universe_Project_Status-v0.0.1--alpha-red.svg?colorA=212121&colorB=FF0000)](https://github.com/universelabs/universe)
+[![Universe Project Status](https://img.shields.io/badge/Universe_Project_Status-v0.0.1_discovery--phase-red.svg?colorA=212121&colorB=FF0000)](https://github.com/universelabs/universe)
 [![Universe Community](https://img.shields.io/badge/Universe_Community-Slack-purple.svg?colorA=212121&colorB=3f46ad)](https://join.slack.com/t/universelabs/shared_invite/enQtNDQ0MjY3NDI5MTkwLTIzMWQ4M2U3MGQ3ZDY5MzM5MGQ5ZDM1MDZjNTgwNGI5NDdiNDY4ZDQyNWI2NjEzZmU3NzVmOTYwYzEzYzc1ZDE)
