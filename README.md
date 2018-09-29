@@ -12,6 +12,8 @@
     <a href="http://universe.engineering"><strong>universe.engineering</strong></a>
     <br/>
     <br/>
+    <a href="http://universe.engineering">Website</a>
+    &nbsp;&middot;&nbsp;
     <a href="https://github.com/universelabs/">Explore</a>
     &nbsp;&middot;&nbsp;
     <a href="https://join.slack.com/t/universelabs/shared_invite/enQtNDQ0MjY3NDI5MTkwLTIzMWQ4M2U3MGQ3ZDY5MzM5MGQ5ZDM1MDZjNTgwNGI5NDdiNDY4ZDQyNWI2NjEzZmU3NzVmOTYwYzEzYzc1ZDE">Slack</a>
