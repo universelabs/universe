@@ -31,15 +31,15 @@
 <br/>
 <br/>
 <div align="center">
-  <h3 align="center">Calling all dApp developers!</h3>
-  <p align="center">
+  <h3>Calling all dApp developers!</h3>
+  <p>
     <strong>Universe's mission is to solve dApp development issues impeding dApps from adoption.</strong>
   </p>
-  <p align="center">
+  <p>
     Are you a dApp developer? Have you ran into issues building dApps? We want to talk to you. Join the Universe open source community and converse with other dApp developers.
   </p>
   <br/>
-  <p align="center">
+  <p>
     <a href="https://join.slack.com/t/universelabs/shared_invite/enQtNDQ0MjY3NDI5MTkwLTIzMWQ4M2U3MGQ3ZDY5MzM5MGQ5ZDM1MDZjNTgwNGI5NDdiNDY4ZDQyNWI2NjEzZmU3NzVmOTYwYzEzYzc1ZDE">
       <img src="https://user-images.githubusercontent.com/1711854/46250736-ccd69000-c40e-11e8-8d95-8e551b17631c.png" width=350>
     </a>
