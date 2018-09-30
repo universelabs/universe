@@ -30,7 +30,7 @@
 </p>
 <br/>
 <br/>
-<div align="center">
+<div>
   <h3>Calling all dApp developers!</h3>
   <p>
     <strong>Universe's mission is to solve dApp development issues impeding dApps from adoption.</strong>
