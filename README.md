@@ -1,13 +1,13 @@
-<p align="center">
+<div align="center">
 
   <a href="http://universe.engineering">
     <img src="https://media.githubusercontent.com/media/universelabs/universe-design/master/logo/rgb/universe-cluster-icon-rounded-512x512.png" width=72 height=72>
   </a>
 
-  <h3 align="center">Universe Labs</h3>
+  <h3>Universe Labs</h3>
 
-  <p align="center">
-    Universe is a blockchain agnostic dApp UX solutions provider
+  <p>
+    Universe is a blockchain agnostic dApp solutions open source community
     <br/>
     <a href="http://universe.engineering"><strong>universe.engineering</strong></a>
     <br/>
@@ -27,16 +27,18 @@
       <img src="https://img.shields.io/github/stars/universelabs/universe.svg?style=social&label=Star&maxAge=2592000" alt="Star Repo">
     </a>
   </p>
-</p>
+</div>
+
 <br/>
 <br/>
-<div>
+
+<div align="center">
   <h3>Calling all dApp developers!</h3>
   <p>
     <strong>Universe's mission is to solve dApp development issues impeding dApps from adoption.</strong>
   </p>
   <p>
-    Are you a dApp developer? Have you ran into issues building dApps? We want to talk to you. Join the Universe open source community and converse with other dApp developers.
+    Are you a dApp developer? Have you ran into issues building dApps? We want to talk to you. Join the Universe open source community and converse with top dApp developers.
   </p>
   <br/>
   <p>
