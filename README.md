@@ -33,7 +33,10 @@
 <div align="center">
   <h3 align="center">Calling all dApp developers!</h3>
   <p align="center">
-    Are you a dApp developer? Do you see issues building dApps? Join the <a href="https://opensource.guide/how-to-contribute/#why-contribute-to-open-source">Open Source Community</a> and converse with other dApp developers.
+    Are you a dApp developer? Have you ran into issues building dApps? We want to talk to you. Join the Universe <a href="https://opensource.guide/how-to-contribute/#why-contribute-to-open-source">open source community</a> and converse with other dApp developers.
+  </p>
+  <p align="center">
+    Our goal is to solve your dApp development issues and blockers keeping your dApp from strong growth.
   </p>
   <p align="center">
     <a href="https://join.slack.com/t/universelabs/shared_invite/enQtNDQ0MjY3NDI5MTkwLTIzMWQ4M2U3MGQ3ZDY5MzM5MGQ5ZDM1MDZjNTgwNGI5NDdiNDY4ZDQyNWI2NjEzZmU3NzVmOTYwYzEzYzc1ZDE">
