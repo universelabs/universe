@@ -7,7 +7,7 @@
   <h3>Universe Labs</h3>
 
   <p>
-    Universe is a blockchain agnostic dApp solutions open source community
+    Universe is a blockchain agnostic dApp solutions community
     <br/>
     <a href="http://universe.engineering"><strong>universe.engineering</strong></a>
     <br/>
