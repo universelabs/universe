@@ -36,7 +36,7 @@
     Are you a dApp developer? Have you ran into issues building dApps? We want to talk to you. Join the Universe <a href="https://opensource.guide/how-to-contribute/#why-contribute-to-open-source">open source community</a> and converse with other dApp developers.
   </p>
   <p align="center">
-    <strong>Universe's mission is to solve dApp development issues and blockers impeding dApps from adoption.</strong>
+    <strong>Universe's mission is to solve dApp development issues impeding dApps from adoption.</strong>
   </p>
   <br/>
   <p align="center">
