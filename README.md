@@ -33,10 +33,10 @@
 <div align="center">
   <h3 align="center">Calling all dApp developers!</h3>
   <p align="center">
-    Are you a dApp developer? Have you ran into issues building dApps? We want to talk to you. Join the Universe <a href="https://opensource.guide/how-to-contribute/#why-contribute-to-open-source">open source community</a> and converse with other dApp developers.
+    <strong>Universe's mission is to solve dApp development issues impeding dApps from adoption.</strong>
   </p>
   <p align="center">
-    <strong>Universe's mission is to solve dApp development issues impeding dApps from adoption.</strong>
+    Are you a dApp developer? Have you ran into issues building dApps? We want to talk to you. Join the Universe open source community and converse with other dApp developers.
   </p>
   <br/>
   <p align="center">
