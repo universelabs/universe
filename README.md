@@ -12,7 +12,8 @@
     <a href="https://universe.engineering">
       <strong>universe.engineering</strong>
     </a>
-    <br/>
+  </p>
+  <p>
     <a href="https://universe.engineering">
       <strong>Website</strong>
     </a>
