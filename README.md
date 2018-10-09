@@ -1,6 +1,6 @@
 <div align="center">
 
-  <a href="http://universe.engineering">
+  <a href="https://universe.engineering">
     <img src="https://media.githubusercontent.com/media/universelabs/universe-design/master/logo/rgb/universe-cluster-icon-rounded-512x512.png" width=72 height=72>
   </a>
 
@@ -9,10 +9,11 @@
   <p>
     Universe is a blockchain agnostic dApp solutions community
     <br/>
-    <a href="http://universe.engineering"><strong>universe.engineering</strong></a>
+    <br/>
+    <a href="https://universe.engineering"><strong>universe.engineering</strong></a>
     <br/>
     <br/>
-    <a href="http://universe.engineering">Website</a>
+    <a href="https://universe.engineering">Website</a>
     &nbsp;&middot;&nbsp;
     <a href="https://github.com/universelabs/">Explore</a>
     &nbsp;&middot;&nbsp;
@@ -29,7 +30,6 @@
   </p>
 </div>
 
-<br/>
 <br/>
 
 <div align="center">
@@ -48,7 +48,6 @@
   </p>
 </div>
 
-<br/>
 <br/>
 
 
