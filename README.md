@@ -8,10 +8,11 @@
 
   <p>
     Universe is a blockchain agnostic dApp solutions community
-    <br/>
   </p>
   <p>
-    <a href="https://universe.engineering"><strong>universe.engineering</strong></a>
+    <a href="https://universe.engineering">
+      <strong>universe.engineering</strong>
+    </a>
     <br/>
     <br/>
     <a href="https://universe.engineering">
