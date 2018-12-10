@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://universe.engineering">
-    <img src="https://media.githubusercontent.com/media/universelabs/universe-design/master/logo/rgb/universe-mite-icon-rounded-512x512.png" width=72 height=72>
+    <img src="https://user-images.githubusercontent.com/1711854/49706409-c6754900-fbf3-11e8-8407-ad01786fee7b.png" width=72 height=72>
   </a>
 
   <h3>Universe Labs</h3>
