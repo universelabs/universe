@@ -12,6 +12,11 @@ Here is a list of upcoming Universe and industry related events.
       <td>Boston, MA</td>
     </tr>
     <tr>
+      <td>April 30 – May 2, 2019</td>
+      <td><a href="https://internetidentityworkshop.com/" target="_blank" rel="nofollow noopener external noreferrer">The Internet Identity Workshop XXVIII (#28)</a></td>
+      <td>Mountain View, CA</td>
+    </tr>
+    <tr>
       <td>May 13-15, 2019</td>
       <td><a href="https://www.coindesk.com/events/consensus-2019" target="_blank" rel="nofollow noopener">Consensus</a></td>
       <td>New York, NY</td>
