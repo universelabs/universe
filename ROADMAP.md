@@ -6,11 +6,11 @@ The following is the Universe Project Roadmap defining the project, technology, 
 
 - [Project Overview](#project-overview)
 - [Goals](#goals)
-- [Execution to date](#execution-to-date-3-sprints)
+- [Execution to date](#execution-to-date-1-sprint)
 - [Milestones](#milestones-unordered-list)
 - [Current Tech Stack](#current-tech-stack)
 - [Discovery](#discovery)
-- [Possible Future Technology](#possible-future-technology)
+- [Use Cases](#use-cases)
 
 ## Project Overview
 
