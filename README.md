@@ -5,14 +5,16 @@
   <p align="center">
     Universe is a blockchain agnostic, decentralized web accessibility node network.
     <br/>
-    <br/>
     <a href="https://universe.engineering">
-      <strong>Website</strong>
+      <strong>universe.engineering</strong>
     </a>
+    <br/>
+    <br/>
     &middot;
     <a href="https://github.com/universelabs/universe/blob/master/ROADMAP.md" alt="Universe Project Roadmap">
       <strong>Roadmap</strong>
     </a>
+    &middot;
     <a href="https://github.com/universelabs/universe/issues/new?template=feature_request.md" alt="Feature request">
       <strong>Feature request</strong>
     </a>
