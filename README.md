@@ -10,7 +10,7 @@
       <strong>Website</strong>
     </a>
     &middot;
-    <a href="https://github.com/universelabs/universe/issues/new" alt="Report a Bug">
+    <a href="https://github.com/universelabs/universe/issues/new?template=bug_report.md" alt="Report a Bug">
       <strong>Report bug</strong>
     </a>
     &middot;
@@ -59,13 +59,11 @@
 
 ## Bug report
 
-Found a bug or issue? Please first read the [issue & bug guidelines](/CONTRIBUTING.md#using-the-issue-tracker)
-and search for existing and closed issues. If your problem is not addressed yet, [please open a bug report](https://github.com/universelabs/universe/issues/new?template=bug_report.md).
+Found a bug or issue? Please first read the [issue & bug guidelines](/CONTRIBUTING.md#using-the-issue-tracker) and search for existing and closed issues. If your problem is not addressed yet, please open a [bug report](https://github.com/universelabs/universe/issues/new?template=bug_report.md).
 
 ## Feature requests
 
-Feature requests are highly encouraged. We want to hear from you on what you'd like to see and/or how you'd like to utilize or access the Universe node
-network.
+Feature requests are highly encouraged. We want to hear from you on what you'd like to see and/or how you'd like to utilize or access the Universe node network.
 
 <a href="https://github.com/universelabs/universe/issues/new?template=feature_request.md">› Request a feature</a>
 
@@ -76,13 +74,11 @@ provide as much detail and context as possible.
 
 Please read through our [contributing guidelines](/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
 
-All code should conform to the [Code Guidelines](/CONTRIBUTING.md#code-guidelines).
-
 ## Roadmap
 
 Universe Labs' mission is to become the largest open source node and key management network.
 
-View the detailed [Universe Roadmap page](https://github.com/universelabs/universe/blob/master/ROADMAP.md) to learn more about project overview, goals, execution to date, milestones, current tech stack, and more...
+View the Universe Roadmap to learn more about project overview, goals, execution to date, milestones, current tech stack, and more...
 
 [› Universe Roadmap page](https://github.com/universelabs/universe/blob/master/ROADMAP.md)
 
@@ -91,8 +87,8 @@ View the detailed [Universe Roadmap page](https://github.com/universelabs/univer
 Get updates on Universe's development and chat with the project maintainers and community members.
 
 - Subscribe to the [Universe Newsletter](http://universe.engineering/subscribe)
-- Follow [@universelabs on Twitter](https://twitter.com/universelabs).
-- Join the official [Universe Slack]().
+- Follow [@universelabs](https://twitter.com/universelabs) on Twitter.
+- Join the official Universe [Slack](https://join.slack.com/t/universelabs/shared_invite/enQtNDQ0MjY3NDI5MTkwLTIzMWQ4M2U3MGQ3ZDY5MzM5MGQ5ZDM1MDZjNTgwNGI5NDdiNDY4ZDQyNWI2NjEzZmU3NzVmOTYwYzEzYzc1ZDE).
 
 [› Universe Community page](/COMMUNITY.md)
 
