@@ -10,8 +10,11 @@
       <strong>Website</strong>
     </a>
     &middot;
-    <a href="https://github.com/universelabs/universe/issues/new?template=bug_report.md" alt="Report a Bug">
-      <strong>Report bug</strong>
+    <a href="https://github.com/universelabs/universe/blob/master/ROADMAP.md" alt="Universe Project Roadmap">
+      <strong>Roadmap</strong>
+    </a>
+    <a href="https://github.com/universelabs/universe/issues/new?template=feature_request.md" alt="Feature request">
+      <strong>Feature request</strong>
     </a>
     &middot;
     <a href="https://github.com/universelabs/">
