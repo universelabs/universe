@@ -57,9 +57,11 @@
 
 [![Universe Community](https://img.shields.io/badge/Universe_Community-Slack-purple.svg?colorA=212121&colorB=3f46ad)](https://join.slack.com/t/universelabs/shared_invite/enQtNDQ0MjY3NDI5MTkwLTIzMWQ4M2U3MGQ3ZDY5MzM5MGQ5ZDM1MDZjNTgwNGI5NDdiNDY4ZDQyNWI2NjEzZmU3NzVmOTYwYzEzYzc1ZDE)
 
+
 ## Bug report
 
 Found a bug or issue? Please first read the [issue & bug guidelines](/CONTRIBUTING.md#using-the-issue-tracker) and search for existing and closed issues. If your problem is not addressed yet, please open a [bug report](https://github.com/universelabs/universe/issues/new?template=bug_report.md).
+
 
 ## Feature requests
 
@@ -70,17 +72,20 @@ Feature requests are highly encouraged. We want to hear from you on what you'd l
 When submitting a feature request, take a moment to find out whether your idea fits with the scope and aims of the project. Please
 provide as much detail and context as possible.
 
+
 ## Contributing
 
 Please read through our [contributing guidelines](/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
+
 
 ## Roadmap
 
 Universe Labs' mission is to become the largest open source node and key management network.
 
+[› Universe Roadmap page](https://github.com/universelabs/universe/blob/master/ROADMAP.md)
+
 View the Universe Roadmap to learn more about project overview, goals, execution to date, milestones, current tech stack, and more...
 
-[› Universe Roadmap page](https://github.com/universelabs/universe/blob/master/ROADMAP.md)
 
 ## Community
 
@@ -92,11 +97,13 @@ Get updates on Universe's development and chat with the project maintainers and 
 
 [› Universe Community page](/COMMUNITY.md)
 
+
 ## Maintainers
 
 **Guy Lepage**
 - <https://twitter.com/guylepage3>
 - <https://github.com/guylepage3>
+
 
 ## License
 
