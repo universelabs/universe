@@ -48,6 +48,7 @@
 - [Contributing](#contributing)
 - [Roadmap](#roadmap)
 - [Community](#community)
+- [Events](#events)
 - [Repository maintainers](#repository-maintainers)
 - [License](#license)
 
@@ -100,7 +101,12 @@ Get updates on Universe's development and chat with the project maintainers and 
 - Follow [@universelabs](https://twitter.com/universelabs) on Twitter.
 - Join the official Universe [Slack](https://join.slack.com/t/universelabs/shared_invite/enQtNDQ0MjY3NDI5MTkwLTIzMWQ4M2U3MGQ3ZDY5MzM5MGQ5ZDM1MDZjNTgwNGI5NDdiNDY4ZDQyNWI2NjEzZmU3NzVmOTYwYzEzYzc1ZDE).
 
-[› Universe Community page](/COMMUNITY.md)
+
+## Events
+
+Join one of the upcoming Universe and industry related events.
+
+[› Universe Evetns](https://github.com/universelabs/universe/blob/master/EVENTS.md)
 
 
 ## Maintainers
