@@ -15,7 +15,7 @@ Following these guidelines helps to communicate that you respect the time of the
 
 ## Using the issue tracker
 
-The [issue tracker](https://github.com/universelabs/universe/issues) is the preferred channel for [bug reports](#bug-report), [features requests](#feature-requests), [custom issues](https://github.com/universelabs/universe/issues/new?template=custom-issue.md) and [submitting pull requests](#pull-requests), but please respect the following restrictions:
+The [issue tracker](https://github.com/universelabs/universe/issues) is the preferred channel for [bug reports](#bug-report), [features requests](#feature-requests), [custom issues](https://github.com/universelabs/universe/issues/new?template=custom.md) and [submitting pull requests](#pull-requests), but please respect the following restrictions:
 
 * Please **do not** use the issue tracker for personal support requests.  Please use the [Universe Slack](https://join.slack.com/t/universelabs/shared_invite/enQtNDQ0MjY3NDI5MTkwLTIzMWQ4M2U3MGQ3ZDY5MzM5MGQ5ZDM1MDZjNTgwNGI5NDdiNDY4ZDQyNWI2NjEzZmU3NzVmOTYwYzEzYzc1ZDE) chat app as it is a better places to get help.
 
