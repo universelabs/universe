@@ -10,7 +10,6 @@
     </a>
     <br/>
     <br/>
-    &middot;
     <a href="https://github.com/universelabs/universe/blob/master/ROADMAP.md" alt="Universe Project Roadmap">
       <strong>Roadmap</strong>
     </a>
