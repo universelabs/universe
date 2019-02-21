@@ -56,7 +56,7 @@ Universe Labs' mission is to become the largest open source node and key managem
 * Universe Meta (Universe's blockchain front-end framework)
 
 ## Discovery
-We have been polling and collecting data off and on for the past 2 months, talking to decentralized app developers on what issues they are facing the most.
+We have been polling and collecting data and talking to decentralized app developers on what issues they are facing the most.
 
 - Users find it difficult to manage their keys.
 - Develepers have a hard time on-boarding users and/or keeping users.
