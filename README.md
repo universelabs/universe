@@ -1,21 +1,16 @@
 <div align="center">
-
   <a href="https://universe.engineering">
-    <img src="https://user-images.githubusercontent.com/1711854/49706409-c6754900-fbf3-11e8-8407-ad01786fee7b.png" width=72 height=72>
+    <img src="https://user-images.githubusercontent.com/1711854/46634061-b79fe680-cb1d-11e8-9d83-32f563fa8acc.png" width=135 alt>
   </a>
-
-  <h3>Universe Labs</h3>
-
-  <p>
-    Universe is a blockchain agnostic dApp solutions community
+  <p align="center">
+    Universe is a blockchain agnostic, decentralized web accessibility node network.
     <br/>
     <a href="https://universe.engineering">
-      <strong>universe.engineering</strong>
-    </a>
-  </p>
-  <p>
-    <a href="https://universe.engineering">
       <strong>Website</strong>
+    </a>
+    &middot;
+    <a href="https://github.com/guylepage3/lepage.cc/issues/new" alt="Report a Bug (Lepage.cc)">
+      <strong>Report bug</strong>
     </a>
     &middot;
     <a href="https://github.com/universelabs/">
@@ -33,25 +28,7 @@
     &middot;
     <a href="https://github.com/universelabs/universe/stargazers">
       <img src="https://img.shields.io/github/stars/universelabs/universe.svg?style=social&label=Star&maxAge=2592000" alt="Star Repo">
-    </a>
-  </p>
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>Calling all dApp developers!</h3>
-  <p>
-    <strong>Universe's mission is to solve dApp development issues impeding dApps from adoption.</strong>
-  </p>
-  <p>
-    Are you a dApp developer? Have you ran into issues building dApps? We want to talk to you. Join the Universe open source community and converse with top dApp developers.
-  </p>
-  <br/>
-  <p>
-    <a href="https://join.slack.com/t/universelabs/shared_invite/enQtNDQ0MjY3NDI5MTkwLTIzMWQ4M2U3MGQ3ZDY5MzM5MGQ5ZDM1MDZjNTgwNGI5NDdiNDY4ZDQyNWI2NjEzZmU3NzVmOTYwYzEzYzc1ZDE">
-      <img src="https://user-images.githubusercontent.com/1711854/46250736-ccd69000-c40e-11e8-8d95-8e551b17631c.png" width=350>
-    </a>
+    </a>   
   </p>
 </div>
 
@@ -61,15 +38,75 @@
 ## Table of contents
 
 - [Status](#status)
+- [Bug report](#bug-report)
+- [Feature requests](#feature-requests)
+- [Contributing](#contributing)
+
+- [Roadmap](#roadmap)
+
+- [Community](#community)
+- [Repository maintainers](#repository-maintainers)
+- [License](#license)
 
 
 ## Status
 
-- Project is in discovery stage.
-- Main goal: talk to dApp developers to find out their greatest pain points.
+- Currently working on building Blockstack authentication
+- Building the key management web app
+- Working on getting a simple blockchain on both Linux & macOS devices.
+- Universe Meta Front-end Framework v1.2.0.
 
-[![Universe Project Status](https://img.shields.io/badge/Universe_Project_Status-v0.0.1--alpha_Discovery-red.svg?colorA=212121&colorB=FF0000)](https://github.com/universelabs/universe)
 [![Universe Community](https://img.shields.io/badge/Universe_Community-Slack-purple.svg?colorA=212121&colorB=3f46ad)](https://join.slack.com/t/universelabs/shared_invite/enQtNDQ0MjY3NDI5MTkwLTIzMWQ4M2U3MGQ3ZDY5MzM5MGQ5ZDM1MDZjNTgwNGI5NDdiNDY4ZDQyNWI2NjEzZmU3NzVmOTYwYzEzYzc1ZDE)
+
+## Bug report
+
+Found a bug or issue? Please first read the [issue & bug guidelines](/CONTRIBUTING.md#using-the-issue-tracker)
+and search for existing and closed issues. If your problem is not addressed yet, [please open a bug report](https://github.com/universelabs/universe/issues/new?template=bug_report.md).
+
+## Feature requests
+
+Feature requests are highly encouraged. We want to hear from you on what you'd like to see and/or how you'd like to utilize or access the Universe node
+network.
+
+<a href="https://github.com/universelabs/universe/issues/new?template=feature_request.md">› Request a feature</a>
+
+When submitting a feature request, take a moment to find out whether your idea fits with the scope and aims of the project. Please
+provide as much detail and context as possible.
+
+## Contributing
+
+Please read through our [contributing guidelines](/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
+
+All code should conform to the [Code Guidelines](/CONTRIBUTING.md#code-guidelines).
+
+## Roadmap
+
+Universe Labs' mission is to become the largest open source node and key management network.
+
+View the detailed [Universe Roadmap page](/roadmap.md) to learn more about project overview, goals, execution to date, milestones, current tech stack, and more...
+
+[› Universe Roadmap page](/roadmap.md)
+
+## Community
+
+Get updates on Universe's development and chat with the project maintainers and community members.
+
+- Subscribe to the [Universe Newsletter](http://universe.engineering/subscribe)
+- Follow [@universelabs on Twitter](https://twitter.com/universelabs).
+- Join the official [Universe Slack]().
+
+[› Universe Community page](/COMMUNITY.md)
+
+## Maintainers
+
+**Guy Lepage**
+- <https://twitter.com/guylepage3>
+- <https://github.com/guylepage3>
+
+## License
+
+By contributing your code, you agree to license your contribution under the [
+MIT License](LICENSE).
 
 
 <div align="right">
