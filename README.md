@@ -87,7 +87,7 @@ Please read through our [contributing guidelines](/CONTRIBUTING.md). Included ar
 
 Universe Labs' mission is to become the largest open source node and key management network.
 
-[› Universe Roadmap page](https://github.com/universelabs/universe/blob/master/ROADMAP.md)
+**[ › Universe Roadmap](https://github.com/universelabs/universe/blob/master/ROADMAP.md)**
 
 View the Universe Roadmap to learn more about project overview, goals, execution to date, milestones, current tech stack, and more...
 
@@ -106,7 +106,7 @@ Get updates on Universe's development and chat with the project maintainers and 
 
 Join one of the upcoming Universe and industry related events.
 
-[› Universe Evetns](https://github.com/universelabs/universe/blob/master/EVENTS.md)
+**[ › Upcoming Universe Events](https://github.com/universelabs/universe/blob/master/EVENTS.md)**
 
 
 ## Maintainers
