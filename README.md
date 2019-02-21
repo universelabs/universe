@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://universe.engineering">
-    <img src="https://user-images.githubusercontent.com/1711854/46634061-b79fe680-cb1d-11e8-9d83-32f563fa8acc.png" width=135 alt>
+    <img src="https://user-images.githubusercontent.com/1711854/53183837-0c726400-35ca-11e9-9357-a5591fcc0e81.png" width=135 alt>
   </a>
   <p align="center">
     Universe is a blockchain agnostic, decentralized web accessibility node network.
