@@ -131,7 +131,7 @@ Adhering to the following process is the best way to get your work included in t
    [git commit message guidelines](
    http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
    or your code is unlikely to be merged into the main project. Use Git's
-   [interactive rebase](https://help.github.com/articles/interactive-rebase)
+   [interactive rebase](https://help.github.com/en/articles/about-git-rebase)
    feature to tidy up your commits before making them public.
 
 6. Locally merge (or rebase) the upstream development branch into your topic
@@ -152,7 +152,7 @@ Adhering to the following process is the best way to get your work included in t
    and description against the `develop` branch.
 
 **IMPORTANT**: By submitting a patch, you agree to allow the project owners to
-license your work under the terms of the [MIT License](https://github.com/universelabs/universe/blob/master/LICENSE.md) (if it
+license your work under the terms of the [MIT License](https://github.com/universelabs/universe/blob/master/LICENSE) (if it
 includes code changes).
 
 
