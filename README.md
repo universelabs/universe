@@ -41,9 +41,7 @@
 - [Bug report](#bug-report)
 - [Feature requests](#feature-requests)
 - [Contributing](#contributing)
-
 - [Roadmap](#roadmap)
-
 - [Community](#community)
 - [Repository maintainers](#repository-maintainers)
 - [License](#license)
@@ -83,9 +81,9 @@ All code should conform to the [Code Guidelines](/CONTRIBUTING.md#code-guideline
 
 Universe Labs' mission is to become the largest open source node and key management network.
 
-View the detailed [Universe Roadmap page](/roadmap.md) to learn more about project overview, goals, execution to date, milestones, current tech stack, and more...
+View the detailed [Universe Roadmap page](https://github.com/universelabs/universe/blob/master/ROADMAP.md) to learn more about project overview, goals, execution to date, milestones, current tech stack, and more...
 
-[› Universe Roadmap page](/roadmap.md)
+[› Universe Roadmap page](https://github.com/universelabs/universe/blob/master/ROADMAP.md)
 
 ## Community
 
