@@ -17,6 +17,11 @@ Here is a list of upcoming Universe and industry related events.
       <td>Mountain View, CA</td>
     </tr>
     <tr>
+      <td>May 10-11, 2019</td>
+      <td><a href="https://etherealsummit.com/" target="_blank" rel="nofollow noopener">Ethereal</a></td>
+      <td>New York, NY</td>
+    </tr>
+    <tr>
       <td>May 13-15, 2019</td>
       <td><a href="https://www.coindesk.com/events/consensus-2019" target="_blank" rel="nofollow noopener">Consensus</a></td>
       <td>New York, NY</td>
