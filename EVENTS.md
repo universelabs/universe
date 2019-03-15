@@ -7,9 +7,9 @@ Here is a list of upcoming Universe and industry related events.
 <table class="table">
   <thead>
     <tr>
-      <td>March 9-10, 2019</td>
-      <td><a href="http://mitbitcoinexpo.org/" target="_blank" rel="nofollow noopener external noreferrer">MIT Bitcoin Expo</a></td>
-      <td>Boston, MA</td>
+      <td>April 12, 2019</td>
+      <td><a href="https://www.cbspringconference.org/" target="_blank" rel="nofollow noopener external noreferrer">Cornell Blockchain Conference Spring 2019</a></td>
+      <td>New York, NY</td>
     </tr>
     <tr>
       <td>April 30 – May 2, 2019</td>
