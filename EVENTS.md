@@ -27,6 +27,11 @@ Here is a list of upcoming Universe and industry related events.
       <td>New York, NY</td>
     </tr>
     <tr>
+      <td>May 17, 2019</td>
+      <td><a href="http://www.edge10.princeton.edu/" target="_blank" rel="nofollow noopener">Edge 10</a></td>
+      <td>Princeton, NJ</td>
+    </tr>
+    <tr>
       <td>October, 2019</td>
       <td><a href="https://tmt.knect365.com/iot-blockchain-summit/" target="_blank" rel="nofollow noopener external noreferrer">IoT Blockchain Summit</a></td>
       <td>Atlanta, GA</td>
