@@ -7,9 +7,9 @@ Here is a list of upcoming Universe and industry related events.
 <table class="table">
   <thead>
     <tr>
-      <td>April 12, 2019</td>
-      <td><a href="https://www.cbspringconference.org/" target="_blank" rel="nofollow noopener external noreferrer">Cornell Blockchain Conference Spring 2019</a></td>
-      <td>New York, NY</td>
+      <td><del>April 12, 2019</del></td>
+      <td><a href="https://www.cbspringconference.org/" target="_blank" rel="nofollow noopener external noreferrer"><del>Cornell Blockchain Conference Spring 2019</del></a></td>
+      <td><del>New York, NY</del></td>
     </tr>
     <tr>
       <td>April 30 – May 2, 2019</td>
