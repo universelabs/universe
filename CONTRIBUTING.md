@@ -3,6 +3,7 @@
 - [Using the issue tracker](#using-the-issue-tracker)
 - [Bug report](#bug-report)
 - [Feature requests](#feature-requests)
+- [Git-Flow (AVH)](#git-flow-avh)
 - [Pull requests](#pull-requests)
 - [Code guidelines](#code-guidelines)
 - [Versioning](#versioning)
@@ -45,7 +46,7 @@ Guidelines for bug reports:
    reported.
 
 2. **Check if the issue has been fixed** &mdash; try to reproduce it using the
-   latest `master` or development branch in the repository.
+   latest `master` or `develop` branch in the repository.
 
 3. **Isolate the problem** &mdash; ideally create a [reduced test
    case](https://css-tricks.com/reduced-test-cases/) and a live example.
@@ -80,13 +81,20 @@ Example:
 When submitting a feature request, take a moment to find out whether your idea fits with the scope and aims of the project. It's up to *you* to make a strong case to convince community members of the merits of this feature. Please provide as much detail and context as possible, providing relevant links, prior art, or live demos whenever possible.
 
 
+## Git-Flow (AVH)
+
+All Universe projects follow Vincent Driessen's **[`git-flow`](https://nvie.com/posts/a-successful-git-branching-model/)** branching model for clarity and increased efficiency amongst the project. We highly recommend simplifying the `git-flow` model by installing and using the **[`git-flow avh`](https://danielkummer.github.io/git-flow-cheatsheet/)** git extension.
+
+If you're not familiar with `git-flow`, no worries, jsut let us know in the `#engineering` channel of the [Universe Slack](https://join.slack.com/t/universelabs/shared_invite/enQtNDQ0MjY3NDI5MTkwLTIzMWQ4M2U3MGQ3ZDY5MzM5MGQ5ZDM1MDZjNTgwNGI5NDdiNDY4ZDQyNWI2NjEzZmU3NzVmOTYwYzEzYzc1ZDE) and someone will happily walk you through the installation and usage of the git extension.
+
+
 ## Pull requests
 
 Good pull requests—patches, improvements, new features—are a fantastic help. They should remain focused in scope and avoid containing unrelated commits.
 
 **Please ask first** before embarking on any significant pull request (e.g. implementing features, refactoring code, porting to a different language), otherwise you risk spending a lot of time working on something that the project's developers might not want to merge into the project.
 
-Pull requests that add new features should target [the `develop` git branch](https://github.com/universelabs/universe/tree/develop), where they will be welcomed and duly considered.
+**NOTE**: All pull requests should target the [`develop`](https://github.com/universelabs/universe/tree/develop) git branch, where they will be welcomed and duly considered.
 
 Please adhere to the [coding guidelines](#code-guidelines) used throughout the project (indentation, accurate comments, etc.) and any other requirements (such as test coverage).
 
