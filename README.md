@@ -110,6 +110,20 @@ Join one of the upcoming Universe and industry related events.
 - <https://twitter.com/guylepage3>
 - <https://github.com/guylepage3>
 
+**Jacob Gadakian**
+
+- <https://twitter.com/gadikian>
+- <https://github.com/faddat>
+
+**Dan Trevino**
+
+- <https://twitter.com/dantrevino>
+- <https://github.com/dantrevino>
+
+**Modestos Kaffes**
+- <https://twitter.com/modkaffes>
+- <https://github.com/modkaffes>
+
 
 ## License
 
