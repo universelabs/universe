@@ -55,11 +55,6 @@
 
 ## Status
 
-- Currently working on building Blockstack authentication
-- Building the key management web app
-- Working on getting a simple blockchain on both Linux & macOS devices.
-- Universe Meta Front-end Framework v1.2.0.
-
 [![Universe Community](https://img.shields.io/badge/Universe_Community-Slack-purple.svg?colorA=212121&colorB=3f46ad)](https://join.slack.com/t/universelabs/shared_invite/enQtNDQ0MjY3NDI5MTkwLTIzMWQ4M2U3MGQ3ZDY5MzM5MGQ5ZDM1MDZjNTgwNGI5NDdiNDY4ZDQyNWI2NjEzZmU3NzVmOTYwYzEzYzc1ZDE)
 
 
