@@ -83,9 +83,17 @@ When submitting a feature request, take a moment to find out whether your idea f
 
 ## Git-Flow (AVH)
 
-All Universe projects follow Vincent Driessen's **[`git-flow`](https://nvie.com/posts/a-successful-git-branching-model/)** branching model for clarity and increased efficiency amongst the project. We highly recommend simplifying the `git-flow` model by installing and using the **[`git-flow avh`](https://danielkummer.github.io/git-flow-cheatsheet/)** git extension.
+All Universe projects are based off of Vincent Driessen's **[`git-flow`](https://nvie.com/posts/a-successful-git-branching-model/)** branching model for clarity and increased efficiency amongst the project. We highly recommend simplifying the `git-flow` model by installing and using the **[`git-flow avh`](https://danielkummer.github.io/git-flow-cheatsheet/)** git extension.
 
-If you're not familiar with `git-flow`, no worries, jsut let us know in the `#engineering` channel of the [Universe Slack](https://join.slack.com/t/universelabs/shared_invite/enQtNDQ0MjY3NDI5MTkwLTIzMWQ4M2U3MGQ3ZDY5MzM5MGQ5ZDM1MDZjNTgwNGI5NDdiNDY4ZDQyNWI2NjEzZmU3NzVmOTYwYzEzYzc1ZDE) and someone will happily walk you through the installation and usage of the git extension.
+Although we use the majority of the `git flow avh` process, we do not use the releases portion of Git Flow unless we are working on multiple releases at one time.
+
+#### Workflow using Git Flow AVH
+
+The `master` branch is handled by the repository manager.
+
+`develop` is the main branch to work off of and is to always remain up to date. When you create a feature using `git flow feature start [name]`, you are creating that feature from the `develop` branch. When you are done with the feature run `git flow feature finish [name]` and that will automatically merge your feature back into the `develop` branch and automatically delete your feature branch for you.
+
+If you're not familiar with `git-flow`, no worries, just let us know in the `#engineering` channel of the [Universe Slack](https://join.slack.com/t/universelabs/shared_invite/enQtNDQ0MjY3NDI5MTkwLTIzMWQ4M2U3MGQ3ZDY5MzM5MGQ5ZDM1MDZjNTgwNGI5NDdiNDY4ZDQyNWI2NjEzZmU3NzVmOTYwYzEzYzc1ZDE) and someone will happily walk you through the installation and usage of the git extension.
 
 
 ## Pull requests
