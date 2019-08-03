@@ -3,7 +3,7 @@
     <img src="https://user-images.githubusercontent.com/1711854/53183837-0c726400-35ca-11e9-9357-a5591fcc0e81.png" width=135 alt>
   </a>
   <p align="center">
-    Universe is a key management software solution for decentralized platforms.
+    Universe is a key management solution for decentralized platforms.
     <br/>
     <a href="https://universe.engineering">
       <strong>universe.engineering</strong>
@@ -110,13 +110,15 @@ Join one of the upcoming Universe and industry related events.
 - <https://twitter.com/guylepage3>
 - <https://github.com/guylepage3>
 
-**Jacob Gadakian**
+**Itamar Reif**
+- <https://twitter.com/itamarreif>
+- <https://github.com/itamarreif>
 
+**Jacob Gadakian**
 - <https://twitter.com/gadikian>
 - <https://github.com/faddat>
 
 **Dan Trevino**
-
 - <https://twitter.com/dantrevino>
 - <https://github.com/dantrevino>
 
