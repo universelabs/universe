@@ -1,5 +1,7 @@
 # Universe Project Roadmap
 
+_Last updated: Aug 3, 2019_
+
 The following is the Universe Project Roadmap defining the project, technology, goals, and future milestones.
 
 ## Table of contents
@@ -14,60 +16,50 @@ The following is the Universe Project Roadmap defining the project, technology, 
 
 ## Project Overview
 
-Universe Labs' mission is to become the largest open source node and key management network.
+Universe Labs' mission is to become the world's largest open source key management network.
 
 ## Goals
 
+- [ ] Abstraction of private key, key assets, passwords and usernames on both the traditional web2.0 and NEW decentralized web3.0 for end users.
 - [ ] Become the largest blockchain agnostic edge/node and key management network.
-- [ ] Offer the best UX for dApp on-boarding and key management software.
-- [ ] Build and maintain a required protocol for handling transactions across the network.
-- [ ] Build a large community of open source developers contributing and building node modules and apps on the Universe node network.
+- [ ] Offer the best UX for DApp key management.
+- [ ] Build and maintain software, hardware, and a peer-to-peer protocol for handling transactions across the network.
+- [ ] Build a large community of open source developers who contribute and integrate Universe's API & SDK.
 
-## Execution to date (1 sprint)
+## Execution to date (5 sprints)
 
-#### Universe Protocol (Blockchain)
-- [x] Universe Testnet v0.1.0-alpha. (Universe daemon & CLI).
-- [x] One-line Install script (Linux).
+#### Universe Key Management Software
+- [x] Web App (v1.0.1-alpha.1) - Key management interface where users can sign up and use the copy/paste functionality to recover a Blockstack account.
+- [x] Key Management Server & Storage (v1.0.0-alpha) - Universe's key management server and storage/keystore built in Go.
 
-#### Universe Key Management / Node Software
-- [x] Universe Key Managemet Express/React Web App v0.6.0-alpha.
-- [x] Universe Meta Front-end Framework v1.2.0.
+#### Universe Mobile Device
+- [x] Mobile Device (v0.3.1-alpha) – A tiny Bluetooth device that caches a user's vault, acting as its decryption key to serve the web app.
+
+#### Universe Stationary Node
+- [x] Stationary Node (v0.1.1-alpha) – A "home node" that will be used as cold storage, either locally or by interacting with a decentralized peer-to-peer storage swarm.
+
+#### Universe Frontend Software
+- [x] Universe Meta (v1.7.8) - A front-end blockchain framework w/ 5,000+ downloads.
+
 
 ## Milestones (unordered list)
 
-- [ ] Universe Key Management - Finish building out the key management web client.
-- [ ] Universe Core - Universe Testnet v0.2.0-alpha (improving the design of the network for performance at the edges of the network).
-- [ ] Universe Core - Image Builder for Raspberry Pi's.
+- [ ] Universe Key Management - Finish building out authentication on the key management web client.
+- [ ] Universe Mobile Device - Build out Universe Mobile client software.
+- [ ] Universe Stationary Node - Image Builder for Raspberry Pi's.
 - [ ] Universe Growth - Raspberry Pi hackathons to get developers building on Universe nodes.
-- [ ] Universe Node - Launch the first Universe node device.
-- [ ] Universe Growth - Distribute Universe nodes to dApp developers and dApp users.
-- [ ] Universe Protocol - Design and develop a protocol that suites the needs of the developers and users.
+- [ ] Universe Growth - Distribute Universe mobile devices and stationary nodes to DApp developers and DApp users.
+- [ ] Universe Peer-to-Peer Storage - Design and develop a peer-to-peer storage system for decentralization of keys.
 
 ## Current Tech Stack
 
-[› Universe Status](https://github.com/universelabs/universe#status) for the lastest status of the Universe Tech Stack and dependencies.
-
+* C++
+* GoLang
 * Blockstack Auth
 * Raspian Linux
 * Raspberry Pi Hardware
+* ESP32 Feather Hardware
 * Node
 * Express
 * React
 * Universe Meta (Universe's blockchain front-end framework)
-
-## Discovery
-We have been polling and collecting data and talking to decentralized app developers on what issues they are facing the most.
-
-- Users find it difficult to manage their keys.
-- Develepers have a hard time on-boarding users and/or keeping users.
-- Users do not want to go through the long process to sign up for an app.
-
-We've taken these findings to develop a strategy to assist decentralized systems in adoption.
-
-## Use Cases
-
-#### Examples of what the network can be used for
-
-- [ ] Similarly to the AOL in the 90's, On-board users with node devices that are always on device.
-- [ ] User's key management to access all the blockchain networks.
-- [ ] Compute, storage, bandwidth, staking, etc.
