@@ -3,7 +3,7 @@
     <img src="https://user-images.githubusercontent.com/1711854/53183837-0c726400-35ca-11e9-9357-a5591fcc0e81.png" width=135 alt>
   </a>
   <p align="center">
-    Universe is a key management solution for decentralized platforms.
+    Universe is an open source key management solution for decentralized platforms.
     <br/>
     <a href="https://universe.engineering">
       <strong>universe.engineering</strong>
@@ -11,19 +11,19 @@
     <br/>
     <br/>
     <a href="https://github.com/universelabs/universe/blob/master/ROADMAP.md" alt="Universe Project Roadmap">
-      <strong>Roadmap</strong>
+      Roadmap
     </a>
     &middot;
     <a href="https://github.com/universelabs/universe/issues/new?template=feature_request.md" alt="Feature request">
-      <strong>Feature request</strong>
+      Feature request
     </a>
     &middot;
     <a href="https://github.com/universelabs/">
-      <strong>Explore</strong>
+      Explore
     </a>
     &middot;
     <a href="https://join.slack.com/t/universelabs/shared_invite/enQtNDQ0MjY3NDI5MTkwLTIzMWQ4M2U3MGQ3ZDY5MzM5MGQ5ZDM1MDZjNTgwNGI5NDdiNDY4ZDQyNWI2NjEzZmU3NzVmOTYwYzEzYzc1ZDE">
-      <strong>Slack</strong>
+      Slack
     </a>
     <br/>
     <br/>
