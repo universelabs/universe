@@ -207,15 +207,14 @@ For transparency into our release cycle and in striving to maintain backward com
 
 Universe Semantic Versioning Example:
 
-> v0.1.0-alpha 
-> v0.1.4-alpha 
-> v0.2.22-alpha 
-> v0.4.0-beta 
-> v0.5.13-beta 
-> v1.0.0 
-> v1.14.3 
-> v3.2.78 
-> etc..
+> `v0.1.0-alpha`
+> `v0.1.4-alpha`
+> `v0.2.22-alpha`
+> `v0.4.0-beta`
+> `v0.5.13-beta`
+> `v1.0.0`
+> `v1.14.3`
+> `v3.2.78`
 
 We use git tags to declare versions and manually create releases. We use [Git-Flow (AVH)](https://github.com/universelabs/universe/blob/master/CONTRIBUTING.md#git-flow-avh) for branching only.
 
