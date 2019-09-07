@@ -3,7 +3,7 @@
     <img src="https://user-images.githubusercontent.com/1711854/53183837-0c726400-35ca-11e9-9357-a5591fcc0e81.png" width=135 alt>
   </a>
   <p align="center">
-    Universe is a decentralized login and private key recovery protocol.
+    Universe is a decentralized login and decentralized private key recovery protocol.
     <br/>
     <a href="https://universe.engineering">
       <strong>universe.engineering</strong>
