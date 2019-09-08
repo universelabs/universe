@@ -1,6 +1,6 @@
 # Universe Project Roadmap
 
-_Last updated: Aug 3, 2019_
+_Last updated: Sept 8, 2019_
 
 The following is the Universe Project Roadmap defining the project, technology, goals, and future milestones.
 
@@ -20,10 +20,10 @@ Universe Labs' mission is to become the world's largest open source key manageme
 
 ## Goals
 
-- [ ] Abstraction of private key, key assets, passwords and usernames on both the traditional web2.0 and NEW decentralized web3.0 for end users.
-- [ ] Become the largest blockchain agnostic edge/node and key management network.
+- [ ] Decentralized Login (DLI) - Make login as secure as public key encryption and easier to use than passwords.
+- [ ] Become the largest blockchain agnostic key management network.
 - [ ] Offer the best UX for DApp key management.
-- [ ] Build and maintain software, hardware, and a peer-to-peer protocol for handling transactions across the network.
+- [ ] Build and maintain software and a peer-to-peer protocol for handling transactions across the network.
 - [ ] Build a large community of open source developers who contribute and integrate Universe's API & SDK.
 
 ## Execution to date (5 sprints)
@@ -42,20 +42,22 @@ Universe Labs' mission is to become the world's largest open source key manageme
 - [x] Universe Meta (v1.7.8) - A front-end blockchain framework w/ 5,000+ downloads.
 
 
-## Milestones (unordered list)
+## Development Milestones (unordered list)
 
 - [ ] Universe Key Management - Finish building out authentication on the key management web client.
-- [ ] Universe Mobile Device - Build out Universe Mobile client software.
-- [ ] Universe Stationary Node - Image Builder for Raspberry Pi's.
-- [ ] Universe Growth - Raspberry Pi hackathons to get developers building on Universe nodes.
-- [ ] Universe Growth - Distribute Universe mobile devices and stationary nodes to DApp developers and DApp users.
+- [ ] Universe Network - Cosmos-SDK blockchain for the Universe Network.
+- [ ] Universe Growth - A code snippet that developers can use to integrate DLI. 
+- [ ] Universe Growth - Hackathons to get developers building on Universe DLI.
 - [ ] Universe Peer-to-Peer Storage - Design and develop a peer-to-peer storage system for decentralization of keys.
 
 ## Current Tech Stack
 
+* Bitcoin
+* Ethereum
+* Blockstack
+* Cosmos-SDK
 * C++
-* GoLang
-* Blockstack Auth
+* Go
 * Raspian Linux
 * Raspberry Pi Hardware
 * ESP32 Feather Hardware
@@ -63,3 +65,7 @@ Universe Labs' mission is to become the world's largest open source key manageme
 * Express
 * React
 * Universe Meta (Universe's blockchain front-end framework)
+
+## Possible Future Technology
+* Mobile hardware device for added user security
+* Stationary hardware node for added key backup capabilities
