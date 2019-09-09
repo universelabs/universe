@@ -6,7 +6,7 @@ The following is the Universe Project Roadmap defining the project, technology, 
 ## Table of contents
 - [Project Overview](#project-overview)
 - [Goals](#goals)
-- [Progress & Status](#progress---status)
+- [Progress & Status](#progress--status)
 - [Milestones](#milestones-unordered-list)
 - [Product Links](#product-links)
 - [Possible Future Technology](#possible-future-technology)
