@@ -6,9 +6,9 @@ The following is the Universe Project Roadmap defining the project, technology, 
 ## Table of contents
 - [Project Overview](#project-overview)
 - [Goals](#goals)
-- [Progress & Status](#progress--status)
+- [Progress & Status](#progress---status)
 - [Milestones](#milestones-unordered-list)
-- [Product Links](#product-links)
+- [Links](#links)
 - [Possible Future Technology](#possible-future-technology)
 - [Partnerships](#partnerships)
 - [Fundraising](#fundraising)
@@ -30,12 +30,13 @@ Universe Labs' mission is to become the world's largest decentralized login plat
 
 We spent a couple months working on building a talented team of computer scientists, blockchain engineers, developers, designers and marketers.
 
-- **Guy Lepage**, _**Co-founder**, UX/UI Designer & Developer_ ([Full Bio](https://lepage.cc/about)) – Guy was the 1st hire at [Blockstack PBC](https://blockstack.org), designer and 1 of 2 developers of the Blockstack browser. (assisted in the building of a company that raised over $53mm from USV, Naval Ravikant, Winklevoss', etc.).
+- **Guy Lepage**, _**Co-founder**, UX/UI Designer & Developer_ ([Full Bio](https://lepage.cc/about)) – 
+Guy was the 1st hire at [Blockstack PBC](https://blockstack.org), designer and 1 of 2 developers of the first [Blockstack Browser](https://github.com/blockstack/blockstack-browser/graphs/contributors). (assisted in the raising of over [$50mm in a token distribution](https://venturebeat.com/2017/12/04/blockstack-raises-52-million-to-build-a-parallel-internet-where-you-own-all-your-data/) from the likes of USV, Naval Ravikant, Winklevoss', etc.).
 - **Itamar Reif**, _**Co-founder**, Protocol Engineer_ – Itamar is a 3rd year student at NYU currently working towards a Joint Major in Computer Science & Economics. Focus/interest in distributed systems and algorithmic game theory.
-- **Jacob Gadikian**, _**Co-founder**, _Blockchain & Hardware Engineer_ – Tendermint/Cosmos blockchain developer. Formerly Co-founder of the Dawn Network, an early decentralized social network. Co-founder of bitcoin mine.
-- **Modestos Kaffes**, _Front-End Engineer & Designer_ – Ethereum DApp developer, Front-end software engineer with a strong design background and an eye for detail. 3+ yrs designer & engineer at Workable.
+- **Jacob Gadikian**, _**Co-founder**, _Blockchain & Hardware Engineer_ – [Tendermint](https://tendermint.com/)/[Cosmos](https://cosmos.network/) blockchain developer. Formerly Co-founder of the [Dawn Network](https://github.com/dawn-network), an early decentralized social network. Co-founder of bitcoin mine.
+- **Modestos Kaffes**, _Front-End Engineer & Designer_ – Ethereum DApp developer, Front-end software engineer with a strong design background and an eye for detail. 3+ yrs designer & engineer at [Workable](https://www.workable.com/).
 - **Charlotte Pan**, _UX & Product_ – UX & Product Designer with a passion for data visualization, front-end development, and designing products that make users’ lives easier.
-- **Sean O’Connor**, _Marketing & Product_ – ConsenSys Product Marketer. Launched several consumer-facing DApps. Recently, Sean has been focused on improving Web3 UX and Advisor at Parsons School of Design.
+- **Sean O’Connor**, _Marketing & Product_ – [ConsenSys](https://consensys.net/) Product Marketer. Launched several consumer-facing DApps. Recently, Sean has been focused on improving Web 3.0 UX and Advisor at Parsons School of Design.
 
 #### Project Status
 We've worked on defining a fully decentralized login and decentralized private key recovery protocol architecture. We are about to launch our decentralized login and move out of alpha into beta with our web app. In coming weeks users will be able to login with a simple click of a button on various Web 3.0 and Web 2.0 platforms and applications. Lastly, we have started building out our beta blockchain with utility token to bootstrap the network.
@@ -48,13 +49,12 @@ We've worked on defining a fully decentralized login and decentralized private k
 - [ ] Universe Growth - Hackathons to get developers building on Universe DLI.
 - [ ] Universe Peer-to-Peer Storage - Design and develop a peer-to-peer storage system for decentralization of keys.
 
-## Product Links
-- Universe Key Management Web App – https://github.com/universelabs/universe-webapp
-- GitHub – https://github.com/universelabs/universe
-- GitHub (Universe Core) – https://github.com/universelabs/universe-core
-- GitHub (Universe Web App) – https://github.com/universelabs/universe-webapp
-- GitHub (Universe Key Manager) – https://github.com/universelabs/universe-key-manager
-- Meta (Blockchain framework w/ 3,000+ downloads) – https://github.com/universelabs/meta
+## Links
+- Universe (GitHub) – https://github.com/universelabs/universe
+- Universe Core (GitHub) – https://github.com/universelabs/universe-core
+- Universe Key Management Web App (GitHub) – https://github.com/universelabs/universe-webapp
+- Universe Key Manager (GitHub) – https://github.com/universelabs/universe-key-manager
+- Meta (Blockchain framework w/ 3,600+ downloads) – https://github.com/universelabs/meta
 - Community – [Slack](https://join.slack.com/t/universelabs/shared_invite/enQtNDQ0MjY3NDI5MTkwLTIzMWQ4M2U3MGQ3ZDY5MzM5MGQ5ZDM1MDZjNTgwNGI5NDdiNDY4ZDQyNWI2NjEzZmU3NzVmOTYwYzEzYzc1ZDE)
 - Website – https://universe.engineering
 
