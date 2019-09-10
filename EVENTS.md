@@ -59,6 +59,27 @@ Here is a list of upcoming Universe and industry related events.
             Itamar Reif
           </a>
           <br />
+        <b>Date</b>: Wed, Sep 11, 2019 <br />
+        <b>Time</b>: 2:30 PM – 3:30 PM (ET) <br />
+        <b>Event</b>: 
+        <a href="https://fintechanddigitalcurrencieswit.splashthat.com/">
+          FinTech and Digital Currencies
+        </a> <br />
+        <b>Location</b>: <br />
+        <a href="https://goo.gl/maps/MsX8chLp1tKfXaUF9">
+          Federal Reserve Bank of Boston | Morris Auditorium, <br />
+          600 Atlantic Ave, <br />
+          Boston, MA
+        </a>
+      </td>
+    </tr> <!-- EVENT -- End ------------------------->
+    <tr> <!-- EVENT -- Start ------------------------>
+      <td>
+        <b>Attendees</b>: 
+          <a href="https://twitter.com/ItamarReif">
+            Itamar Reif
+          </a>
+          <br />
         <b>Date</b>: Sun, Sep 15, 2019 <br />
         <b>Time</b>: 8:30 AM – 6:00 PM (ET) <br />
         <b>Event</b>: 
@@ -66,7 +87,7 @@ Here is a list of upcoming Universe and industry related events.
           Ethereal Summit Tel Aviv Blockchain Week
         </a> <br />
         <b>Location</b>: <br />
-        <a href="https://goo.gl/maps/TWF3ubXU9mfSVDJ19">
+        <a href="https://goo.gl/maps/MsX8chLp1tKfXaUF9">
           Sheva, <br />
           HaTsfira St 21, <br />
           Tel Aviv-Yafo, Israel
