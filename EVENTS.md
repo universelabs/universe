@@ -55,8 +55,8 @@ Here is a list of upcoming Universe and industry related events.
     <tr> <!-- EVENT -- Start ------------------------>
       <td>
         <b>Attendees</b>: 
-          <a href="https://twitter.com/ItamarReif">
-            Itamar Reif
+          <a href="https://twitter.com/guylepage3">
+            Guy Lepage
           </a>
           <br />
         <b>Date</b>: Wed, Sep 11, 2019 <br />
@@ -66,7 +66,7 @@ Here is a list of upcoming Universe and industry related events.
           FinTech and Digital Currencies
         </a> <br />
         <b>Location</b>: <br />
-        <a href="https://goo.gl/maps/MsX8chLp1tKfXaUF9">
+        <a href="https://goo.gl/maps/Qht86KGzKBWh3vhEA">
           Federal Reserve Bank of Boston | Morris Auditorium, <br />
           600 Atlantic Ave, <br />
           Boston, MA
