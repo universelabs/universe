@@ -9,47 +9,6 @@ Here is a list of upcoming Universe and industry related events.
     <tr> <!-- EVENT -- Start ------------------------>
       <td>
         <b>Attendees</b>: 
-          <a href="https://twitter.com/guylepage3">
-            Guy Lepage
-          </a>
-          <br />
-        <b>Date</b>: Wed, Sep 11, 2019 <br />
-        <b>Time</b>: 2:30 PM – 3:30 PM (ET) <br />
-        <b>Event</b>: 
-        <a href="https://fintechanddigitalcurrencieswit.splashthat.com/">
-          FinTech and Digital Currencies
-        </a> <br />
-        <b>Location</b>: <br />
-        <a href="https://goo.gl/maps/Qht86KGzKBWh3vhEA">
-          Federal Reserve Bank of Boston | Morris Auditorium, <br />
-          600 Atlantic Ave, <br />
-          Boston, MA
-        </a>
-      </td>
-    </tr> <!-- EVENT -- End ------------------------->
-    <tr> <!-- EVENT -- Start ------------------------>
-      <td>
-        <b>Attendees</b>: 
-          <a href="https://twitter.com/guylepage3">
-            Guy Lepage
-          </a>
-          <br />
-        <b>Date</b>: Wed, Sep 11, 2019 <br />
-        <b>Time</b>: 6:30 PM – 8:30 PM (ET) <br />
-        <b>Event</b>: 
-        <a href="https://www.meetup.com/Boston-Blockchain-Association/events/261883998/">
-          Boston Fintech Week: The Blockchain Main Event
-        </a> <br />
-        <b>Location</b>: <br />
-        <a href="https://goo.gl/maps/J3w8S3F4XaaTCUam9">
-          695 Atlantic Ave, <br />
-          Boston, MA 02111
-        </a>
-      </td>
-    </tr> <!-- EVENT -- End ------------------------->
-    <tr> <!-- EVENT -- Start ------------------------>
-      <td>
-        <b>Attendees</b>: 
           <a href="https://twitter.com/ItamarReif">
             Itamar Reif
           </a>
@@ -127,6 +86,51 @@ Here is a list of upcoming Universe and industry related events.
 
 <table class="table">
   <thead>
+    <tr> <!-- EVENT -- Start ------------------------>
+      <td>
+        <del>
+        <b>Attendees</b>: 
+          <a href="https://twitter.com/guylepage3">
+            Guy Lepage
+          </a>
+          <br />
+        <b>Date</b>: Wed, Sep 11, 2019 <br />
+        <b>Time</b>: 6:30 PM – 8:30 PM (ET) <br />
+        <b>Event</b>: 
+        <a href="https://www.meetup.com/Boston-Blockchain-Association/events/261883998/">
+          Boston Fintech Week: The Blockchain Main Event
+        </a> <br />
+        <b>Location</b>: <br />
+        <a href="https://goo.gl/maps/J3w8S3F4XaaTCUam9">
+          695 Atlantic Ave, <br />
+          Boston, MA 02111
+        </a>
+        </del>
+      </td>
+    </tr> <!-- EVENT -- End ------------------------->
+    <tr> <!-- EVENT -- Start ------------------------>
+      <td>
+        <del>
+        <b>Attendees</b>: 
+          <a href="https://twitter.com/guylepage3">
+            Guy Lepage
+          </a>
+          <br />
+        <b>Date</b>: Wed, Sep 11, 2019 <br />
+        <b>Time</b>: 2:30 PM – 3:30 PM (ET) <br />
+        <b>Event</b>: 
+        <a href="https://fintechanddigitalcurrencieswit.splashthat.com/">
+          FinTech and Digital Currencies
+        </a> <br />
+        <b>Location</b>: <br />
+        <a href="https://goo.gl/maps/Qht86KGzKBWh3vhEA">
+          Federal Reserve Bank of Boston | Morris Auditorium, <br />
+          600 Atlantic Ave, <br />
+          Boston, MA
+        </a>
+        </del>
+      </td>
+    </tr> <!-- EVENT -- End ------------------------->
     <tr> <!-- EVENT -- Start ------------------------>
       <td>
         <del>
