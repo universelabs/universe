@@ -46,7 +46,7 @@ Here is a list of upcoming Universe and industry related events.
     </tr> <!-- EVENT -- End ------------------------->
     <tr> <!-- EVENT -- Start ------------------------>
       <td>
-        <b>Attendees</b>: <br />
+        <b>Attendees</b>: Guy Lepage, Itamar Reif, Jacob Gadikian <br />
         <b>Date</b>: Tue, Oct 1 – Fri, Oct 3, 2019 <br />
         <b>Time</b>: 8:00 AM – 5:00 PM (ET) <br />
         <b>Event</b>: 
