@@ -9,7 +9,14 @@ Here is a list of upcoming Universe and industry related events.
     <tr> <!-- EVENT -- Start ------------------------>
       <td>
         <del>
-        <b>Attendees</b>: Guy Lepage, Jacob Gadikian <br />
+        <b>Attendees</b>: 
+          <a href="https://twitter.com/guylepage3">
+            Guy Lepage
+          </a>, 
+          <a href="https://twitter.com/gadikian">
+            Jacob Gadikian
+          </a>
+          <br />
         <b>Date</b>: Fri, Apr 12, 2019 <br />
         <b>Time</b>: 8:00 AM – 6:00 PM (ET) <br />
         <b>Event</b>: 
@@ -28,7 +35,8 @@ Here is a list of upcoming Universe and industry related events.
     <tr> <!-- EVENT -- Start ------------------------>
       <td>
         <del>
-        <b>Attendees</b>: <br />
+        <b>Attendees</b>:
+          <br />
         <b>Date</b>: Tue, Apr 30 – Thu, May 2, 2019 <br />
         <b>Time</b>: 8:00 AM – 5:00 PM (ET) <br />
         <b>Event</b>: 
@@ -46,7 +54,11 @@ Here is a list of upcoming Universe and industry related events.
     </tr> <!-- EVENT -- End ------------------------->
     <tr> <!-- EVENT -- Start ------------------------>
       <td>
-        <b>Attendees</b>: Itamar Reif <br />
+        <b>Attendees</b>: 
+          <a href="https://twitter.com/ItamarReif">
+            Itamar Reif
+          </a>
+          <br />
         <b>Date</b>: Sun, Sep 15, 2019 <br />
         <b>Time</b>: 8:30 AM – 6:00 PM (ET) <br />
         <b>Event</b>: 
@@ -63,7 +75,17 @@ Here is a list of upcoming Universe and industry related events.
     </tr> <!-- EVENT -- End ------------------------->
     <tr> <!-- EVENT -- Start ------------------------>
       <td>
-        <b>Attendees</b>: Guy Lepage, Itamar Reif, Jacob Gadikian <br />
+        <b>Attendees</b>: 
+          <a href="https://twitter.com/guylepage3">
+            Guy Lepage
+          </a>, 
+          <a href="https://twitter.com/ItamarReif">
+            Itamar Reif
+          </a>, 
+          <a href="https://twitter.com/gadikian">
+            Jacob Gadikian
+          </a>
+          <br />
         <b>Date</b>: Tue, Oct 1 – Fri, Oct 3, 2019 <br />
         <b>Time</b>: 8:00 AM – 5:00 PM (ET) <br />
         <b>Event</b>: 
@@ -80,7 +102,14 @@ Here is a list of upcoming Universe and industry related events.
     </tr> <!-- EVENT -- End ------------------------->
     <tr> <!-- EVENT -- Start ------------------------>
       <td>
-        <b>Attendees</b>: Guy Lepage, Itamar Reif <br />
+        <b>Attendees</b>: 
+          <a href="https://twitter.com/guylepage3">
+            Guy Lepage
+          </a>, 
+          <a href="https://twitter.com/ItamarReif">
+            Itamar Reif
+          </a>
+          <br />
         <b>Date</b>: Mon, Oct 21 — Thu, Oct 24, 2019 <br />
         <b>Time</b>: 6:00 PM - 5:00 PM (ET) <br />
         <b>Event</b>: 
