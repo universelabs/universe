@@ -46,6 +46,23 @@ Here is a list of upcoming Universe and industry related events.
     </tr> <!-- EVENT -- End ------------------------->
     <tr> <!-- EVENT -- Start ------------------------>
       <td>
+        <b>Attendees</b>: Itamar Reif <br />
+        <b>Date</b>: Sun, Sep 15, 2019 <br />
+        <b>Time</b>: 8:30 AM – 6:00 PM (ET) <br />
+        <b>Event</b>: 
+        <a href="https://www.etherealsummit.com/events/tel-aviv-2019">
+          Ethereal Summit Tel Aviv Blockchain Week
+        </a> <br />
+        <b>Location</b>: <br />
+        <a href="https://goo.gl/maps/TWF3ubXU9mfSVDJ19">
+          Sheva, <br />
+          HaTsfira St 21, <br />
+          Tel Aviv-Yafo, Israel
+        </a>
+      </td>
+    </tr> <!-- EVENT -- End ------------------------->
+    <tr> <!-- EVENT -- Start ------------------------>
+      <td>
         <b>Attendees</b>: Guy Lepage, Itamar Reif, Jacob Gadikian <br />
         <b>Date</b>: Tue, Oct 1 – Fri, Oct 3, 2019 <br />
         <b>Time</b>: 8:00 AM – 5:00 PM (ET) <br />
