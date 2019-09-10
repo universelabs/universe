@@ -46,6 +46,23 @@ Here is a list of upcoming Universe and industry related events.
     </tr> <!-- EVENT -- End ------------------------->
     <tr> <!-- EVENT -- Start ------------------------>
       <td>
+        <b>Attendees</b>: <br />
+        <b>Date</b>: Tue, Oct 1 – Fri, Oct 3, 2019 <br />
+        <b>Time</b>: 8:00 AM – 5:00 PM (ET) <br />
+        <b>Event</b>: 
+        <a href="https://internetidentityworkshop.com/">
+          The Internet Identity Workshop XXVIII (#29)
+        </a> <br />
+        <b>Location</b>: <br />
+        <a href="https://goo.gl/maps/TWF3ubXU9mfSVDJ19">
+          Computer History Museum, <br />
+          1401 N Shoreline Blvd, <br />
+          Mountain View, CA 94043
+        </a>
+      </td>
+    </tr> <!-- EVENT -- End ------------------------->
+    <tr> <!-- EVENT -- Start ------------------------>
+      <td>
         <b>Attendees</b>: Guy Lepage, Itamar Reif <br />
         <b>Date</b>: Mon, Oct 21 — Thu, Oct 24, 2019 <br />
         <b>Time</b>: 6:00 PM - 5:00 PM (ET) <br />
