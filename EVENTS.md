@@ -6,51 +6,57 @@ Here is a list of upcoming Universe and industry related events.
 
 <table class="table">
   <thead>
-    <tr>
-      <td><del>April 12, 2019</del></td>
-      <td><a href="https://www.cbspringconference.org/" target="_blank" rel="nofollow noopener external noreferrer"><del>Cornell Blockchain Conference Spring 2019</del></a></td>
-      <td><del>New York, NY</del></td>
-    </tr>
-    <tr>
-      <td>April 30 – May 2, 2019</td>
-      <td><a href="https://internetidentityworkshop.com/" target="_blank" rel="nofollow noopener external noreferrer">The Internet Identity Workshop XXVIII (#28)</a></td>
-      <td>Mountain View, CA</td>
-    </tr>
-    <tr>
-      <td>May 10-11, 2019</td>
-      <td><a href="https://etherealsummit.com/" target="_blank" rel="nofollow noopener">Ethereal</a></td>
-      <td>New York, NY</td>
-    </tr>
-    <tr>
-      <td>May 13-15, 2019</td>
-      <td><a href="https://www.coindesk.com/events/consensus-2019" target="_blank" rel="nofollow noopener">Consensus</a></td>
-      <td>New York, NY</td>
-    </tr>
-      <tr>
-      <td>May 17-19, 2019</td>
-      <td><a href="http://ethnewyork.com/" target="_blank" rel="nofollow noopener">ETH NYC</a></td>
-      <td>New York, NY</td>
-    </tr>
-    <tr>
-      <td>May 17, 2019</td>
-      <td><a href="http://www.edge10.princeton.edu/" target="_blank" rel="nofollow noopener">Edge 10</a></td>
-      <td>Princeton, NJ</td>
-    </tr>
-     <tr>
-      <td>Aug 21-23, 2019</td>
-      <td><a href="https://dappcon.io/" target="_blank" rel="nofollow noopener">Dappcon</a></td>
-      <td>Berlin, Germany</td>
-    </tr>
-    <tr>
-      <td>Aug 23-25, 2019</td>
-      <td><a href="https://ethberlinzwei.com/" target="_blank" rel="nofollow noopener">ETH Berlin</a></td>
-      <td>Berlin, Germany</td>
-    </tr>
-    <tr>
-      <td>October, 2019</td>
-      <td><a href="https://tmt.knect365.com/iot-blockchain-summit/" target="_blank" rel="nofollow noopener external noreferrer">IoT Blockchain Summit</a></td>
-      <td>Atlanta, GA</td>
-    </tr>
+    <tr> <!-- EVENT -- Start ------------------------>
+      <td>
+        <del>
+        <b>Attendees</b>: Guy Lepage, Jacob Gadikian <br />
+        <b>Date</b>: Fri, Apr 12, 2019 <br />
+        <b>Time</b>: 8:00 AM – 6:00 PM (ET) <br />
+        <b>Event</b>: 
+        <a href="https://www.cbspringconference.org/">
+          Cornell Blockchain Conference Spring 2019
+        </a> <br />
+        <b>Location</b>: <br />
+        <a href="https://goo.gl/maps/Qo9k2g8Q37sZbzCr8">
+          Bloomberg Center, <br />
+          2 W Loop Rd, <br />
+          New York, NY 10044
+        </a>
+        </del>
+      </td>
+    </tr> <!-- EVENT -- End ------------------------->
+    <tr> <!-- EVENT -- Start ------------------------>
+      <td>
+        <del>
+        <b>Attendees</b>: <br />
+        <b>Date</b>: Tue, Apr 30 – Thu, May 2, 2019 <br />
+        <b>Time</b>: 8:00 AM – 5:00 PM (ET) <br />
+        <b>Event</b>: 
+        <a href="https://internetidentityworkshop.com/">
+          The Internet Identity Workshop XXVIII (#28)
+        </a> <br />
+        <b>Location</b>: <br />
+        <a href="https://goo.gl/maps/TWF3ubXU9mfSVDJ19">
+          Computer History Museum, <br />
+          1401 N Shoreline Blvd, <br />
+          Mountain View, CA 94043
+        </a>
+        </del>
+      </td>
+    </tr> <!-- EVENT -- End ------------------------->
+    <tr> <!-- EVENT -- Start ------------------------>
+      <td>
+        <b>Attendees</b>: Guy Lepage, Itamar Reif <br />
+        <b>Date</b>: Mon, Oct 21 — Thu, Oct 24, 2019 <br />
+        <b>Time</b>: 6:00 PM - 5:00 PM (ET) <br />
+        <b>Event</b>: 
+        <a href="https://dcfintechweek.org/">
+          DC FinTech Week
+        </a> <br />
+        <b>Location</b>: <br />
+        TBA (To be announced..)
+      </td>
+    </tr><!-- EVENT -- End ------------------------->
   </thead>
 </table>
 
