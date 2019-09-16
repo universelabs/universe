@@ -9,27 +9,6 @@ Here is a list of upcoming Universe and industry related events.
     <tr> <!-- EVENT -- Start ------------------------>
       <td>
         <b>Attendees</b>: 
-          <a href="https://twitter.com/ItamarReif">
-            Itamar Reif
-          </a>
-          <br />
-        <b>Date</b>: Sun, Sep 15, 2019 <br />
-        <b>Time</b>: 8:30 AM – 6:00 PM (ET) <br />
-        <b>Event</b>: 
-        <a href="https://www.etherealsummit.com/events/tel-aviv-2019">
-          Ethereal Summit Tel Aviv Blockchain Week
-        </a> <br />
-        <b>Location</b>: <br />
-        <a href="https://goo.gl/maps/MsX8chLp1tKfXaUF9">
-          Sheva, <br />
-          HaTsfira St 21, <br />
-          Tel Aviv-Yafo, Israel
-        </a>
-      </td>
-    </tr> <!-- EVENT -- End ------------------------->
-    <tr> <!-- EVENT -- Start ------------------------>
-      <td>
-        <b>Attendees</b>: 
           <a href="https://twitter.com/guylepage3">
             Guy Lepage
           </a>, 
@@ -86,6 +65,29 @@ Here is a list of upcoming Universe and industry related events.
 
 <table class="table">
   <thead>
+    <tr> <!-- EVENT -- Start ------------------------>
+      <td>
+        <del>
+        <b>Attendees</b>: 
+          <a href="https://twitter.com/ItamarReif">
+            Itamar Reif
+          </a>
+          <br />
+        <b>Date</b>: Sun, Sep 15, 2019 <br />
+        <b>Time</b>: 8:30 AM – 6:00 PM (ET) <br />
+        <b>Event</b>: 
+        <a href="https://www.etherealsummit.com/events/tel-aviv-2019">
+          Ethereal Summit Tel Aviv Blockchain Week
+        </a> <br />
+        <b>Location</b>: <br />
+        <a href="https://goo.gl/maps/MsX8chLp1tKfXaUF9">
+          Sheva, <br />
+          HaTsfira St 21, <br />
+          Tel Aviv-Yafo, Israel
+        </a>
+        </del>
+      </td>
+    </tr> <!-- EVENT -- End ------------------------->
     <tr> <!-- EVENT -- Start ------------------------>
       <td>
         <del>
