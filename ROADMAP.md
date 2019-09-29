@@ -55,7 +55,7 @@ We've worked on defining a fully decentralized login and decentralized private k
 - Universe Key Management Web App (GitHub) – https://github.com/universelabs/universe-webapp
 - Universe Key Manager (GitHub) – https://github.com/universelabs/universe-key-manager
 - Meta (Blockchain framework w/ 3,600+ downloads) – https://github.com/universelabs/meta
-- Community – [Slack](https://join.slack.com/t/universelabs/shared_invite/enQtNDQ0MjY3NDI5MTkwLTIzMWQ4M2U3MGQ3ZDY5MzM5MGQ5ZDM1MDZjNTgwNGI5NDdiNDY4ZDQyNWI2NjEzZmU3NzVmOTYwYzEzYzc1ZDE)
+- Community – [Slack](https://universelabs-slackin.herokuapp.com/)
 - Website – https://universe.engineering
 
 ## Possible Future Technology

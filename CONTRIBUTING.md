@@ -18,7 +18,7 @@ Following these guidelines helps to communicate that you respect the time of the
 
 The [issue tracker](https://github.com/universelabs/universe/issues) is the preferred channel for [bug reports](#bug-report), [features requests](#feature-requests), [custom issues](https://github.com/universelabs/universe/issues/new?template=custom.md) and [submitting pull requests](#pull-requests), but please respect the following restrictions:
 
-* Please **do not** use the issue tracker for personal support requests.  Please use the [Universe Slack](https://join.slack.com/t/universelabs/shared_invite/enQtNDQ0MjY3NDI5MTkwLTIzMWQ4M2U3MGQ3ZDY5MzM5MGQ5ZDM1MDZjNTgwNGI5NDdiNDY4ZDQyNWI2NjEzZmU3NzVmOTYwYzEzYzc1ZDE) chat app as it is a better places to get help.
+* Please **do not** use the issue tracker for personal support requests.  Please use the [Universe Slack](https://universelabs-slackin.herokuapp.com/) chat app as it is a better places to get help.
 
 * Please **do not** derail or troll issues. Keep the discussion on topic and respect the opinions of others.
 
@@ -93,7 +93,7 @@ The `master` branch is handled by the repository manager.
 
 `develop` is the main branch to work off of and is to always remain up to date. When you create a feature using `git flow feature start [name]`, you are creating that feature from the `develop` branch. When you are done with the feature run `git flow feature finish [name]` and that will automatically merge your feature back into the `develop` branch and automatically delete your feature branch for you.
 
-If you're not familiar with `git-flow`, no worries, just let us know in the `#engineering` channel of the [Universe Slack](https://join.slack.com/t/universelabs/shared_invite/enQtNDQ0MjY3NDI5MTkwLTIzMWQ4M2U3MGQ3ZDY5MzM5MGQ5ZDM1MDZjNTgwNGI5NDdiNDY4ZDQyNWI2NjEzZmU3NzVmOTYwYzEzYzc1ZDE) and someone will happily walk you through the installation and usage of the git extension.
+If you're not familiar with `git-flow`, no worries, just let us know in the `#engineering` channel of the [Universe Slack](https://universelabs-slackin.herokuapp.com/) and someone will happily walk you through the installation and usage of the git extension.
 
 
 ## Pull requests
