@@ -22,7 +22,7 @@
       Explore
     </a>
     &middot;
-    <a href="https://universelabs-slackin.herokuapp.com/">
+    <a href="https://slack.universe.engineering">
       Slack
     </a>
     <br/>
@@ -53,7 +53,7 @@
 
 ## Status
 
-[![Universe Community](https://img.shields.io/badge/Universe_Community-Slack-purple.svg?colorA=212121&colorB=3f46ad)](https://universelabs-slackin.herokuapp.com/)
+[![Universe Community](https://img.shields.io/badge/Universe_Community-Slack-purple.svg?colorA=212121&colorB=3f46ad)](https://slack.universe.engineering)
 
 ## Bug report
 
@@ -87,7 +87,7 @@ Get updates on Universe's development and chat with the project maintainers and 
 - Subscribe to the [Universe Newsletter](http://universe.engineering/subscribe)
 - [Star this repo](https://github.com/universelabs/universe/stargazers)
 - Follow [@universelabs](https://twitter.com/universelabs) on Twitter.
-- Join the official Universe [Slack](https://universelabs-slackin.herokuapp.com/).
+- Join the official Universe [Slack](https://slack.universe.engineering).
 
 ## Events
 
