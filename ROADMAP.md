@@ -15,7 +15,7 @@ The following is the Universe Project Roadmap defining the project, technology, 
 - [Current Tech Stack](#current-tech-stack)
 
 ## Project Overview
-Universe Labs' mission is to become the world's largest decentralized login platform.
+Universe Labs' mission is to become the world's largest decentralized private key recovery app & protocol.
 
 ## Goals
 - [ ] Decentralized Login (DLI) - Make login as secure as public key encryption and easier to use than passwords.
@@ -39,7 +39,7 @@ Guy was the 1st hire at [Blockstack PBC](https://blockstack.org), designer and 1
 - **Sean O’Connor**, _Marketing & Product_ – [ConsenSys](https://consensys.net/) Product Marketer. Launched several consumer-facing DApps. Recently, Sean has been focused on improving Web 3.0 UX and Advisor at Parsons School of Design.
 
 #### Project Status
-We've worked on defining a fully decentralized login and decentralized private key recovery protocol architecture. We are about to launch our decentralized login and move out of alpha into beta with our web app. In coming weeks users will be able to login with a simple click of a button on various Web 3.0 and Web 2.0 platforms and applications. Lastly, we have started building out our beta blockchain with utility token to bootstrap the network.
+We've worked on defining a decentralized private key recovery app & protocol architecture. We are about to launch our decentralized login and move out of alpha into beta with our web app. In coming weeks users will be able to login with a simple click of a button on various Web 3.0 and Web 2.0 platforms and applications. Lastly, we have started building out our beta blockchain with utility token to bootstrap the network.
 
 ## Milestones (unordered list)
 
