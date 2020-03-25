@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://universe.engineering">
-    <img src="https://user-images.githubusercontent.com/1711854/53183837-0c726400-35ca-11e9-9357-a5591fcc0e81.png" width=135 alt>
+    <img src="https://user-images.githubusercontent.com/1711854/53183837-0c726400-35ca-11e9-9357-a5591fcc0e81.png" width=130 alt>
   </a>
   <p align="center">
     Universe is a decentralized private key recovery app & protocol.
@@ -53,7 +53,7 @@
 
 ## Status
 
-[![Universe Community](https://img.shields.io/badge/Universe_Community-Slack-purple.svg?colorA=212121&colorB=3f46ad)](https://slack.universe.engineering)
+[![Universe Community](https://img.shields.io/badge/Universe_Community-Join_the_Slack!-blue.svg?colorA=000000&colorB=7800C4)](https://slack.universe.engineering)
 
 ## Bug report
 
